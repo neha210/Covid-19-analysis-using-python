@@ -4,11 +4,11 @@
 
 "The COVID Tracking Project collects and publishes the most complete testing data available for US states and territories. It has been cited in and used by major media companies and agencies.
 
-![covid-tracking](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/Covid-tracking-project-3.PNG)
+![covid-tracking](https://raw.githubusercontent.com/neha210/Covid-19-analysis/master/images/Covid-tracking-project-3.PNG)
 
 ### Notebook
 
-[Here is the demo Notebook with Covid-tracking project data](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/Covid-tracking-project.ipynb)
+[Here is the demo Notebook with Covid-tracking project data](https://github.com/neha210/Covid-19-analysis/blob/master/Notebook/Covid-tracking-project.ipynb)
 
 ---
 
@@ -18,12 +18,12 @@ The New York Times is releasing a series of data files with cumulative counts of
 Here is the NY Times Github repo: **https://github.com/nytimes/covid-19-data**
 
 ### Notebook
-[Here is the demo Notebook with NY Times dataset](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/NYTCovid-test.ipynb)
+[Here is the demo Notebook with NY Times dataset](https://github.com/neha210/Covid-19-analysis/blob/master/Notebook/NYTCovid-test.ipynb)
 
 ### Medium article
 Here is my Medium article about it: ***[Analyze NY Times Covid-19 Dataset](https://towardsdatascience.com/analyze-ny-times-covid-19-dataset-86c802164210)***
 
-![image-1](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/NYT-Covid-collage.png)
+![image-1](https://raw.githubusercontent.com/neha210/Covid-19-analysis/master/images/NYT-Covid-collage.png)
 
 ---
 
@@ -33,9 +33,9 @@ Even without venturing into actual predictive modeling, it is possible to demons
 In this demo, we will show how to build such a demo in Python, following a simple yet fundamental epidemiological theory.
 
 ### Notebook
-[Here is the demo notebook for the SEIR modeling](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/SEIR-demo.ipynb)
+[Here is the demo notebook for the SEIR modeling](https://github.com/neha210/Covid-19-analysis/blob/master/Notebook/SEIR-demo.ipynb)
 
 ### Medium article
 Here is my Medium article about it: ***["Simple modeling of “flattening the curve” and “lifting lockdown”](https://towardsdatascience.com/simple-modeling-of-flattening-the-curve-and-lifting-lockdown-1a774a248e68)***
 
-![SEIR-feature](https://raw.githubusercontent.com/tirthajyoti/Covid-19-analysis/master/images/SEIR-feature-image.png)
+![SEIR-feature](https://raw.githubusercontent.com/neha210/Covid-19-analysis/master/images/SEIR-feature-image.png)
